@@ -1,0 +1,8 @@
+# Example model numbers file
+# Add one model number per line
+# This file will be used by the catalog extraction process
+
+62558LF-PC
+PRO4850G
+
+# Add more model numbers below:
